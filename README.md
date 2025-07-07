@@ -2,7 +2,7 @@
   <img src="./assets/dolphin.png" width="300">
 </div>
 
-# Document Image Parsing via Heterogeneous Anchor Prompting
+## Document Image Parsing via Heterogeneous Anchor Prompting
 
 Dolphin (**Do**cument Image **P**arsing via **H**eterogeneous Anchor Prompt**in**g) is a novel multimodal document image parsing model following an analyze-then-parse paradigm. This repository contains the demo code and pre-trained models for Dolphin.
 
