@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="./assets/dolphin.png" width="300">
+  <img src="./assets/dolphin.png" width="300" />
+  <h2>Document Image Parsing via Heterogeneous Anchor Prompting</h2>
 </div>
 
-## Document Image Parsing via Heterogeneous Anchor Prompting
-
-Dolphin (**Do**cument Image **P**arsing via **H**eterogeneous Anchor Prompt**in**g) is a novel multimodal document image parsing model following an analyze-then-parse paradigm. This repository contains the demo code and pre-trained models for Dolphin.
+Dolphin (**Do**cument Image **P**arsing via **H**eterogeneous Anchor Prompt**in**g) is a novel multimodal document image parsing model following an analyze-then-parse paradigm. This repo has code and pre-trained models for Dolphin.
 
 <div align="center">
   <a href="https://arxiv.org/abs/2505.14059">
